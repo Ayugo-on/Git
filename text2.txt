@@ -1,3 +1,5 @@
 This is file 2
 First change on this file
 Learning Squash Merge
+hope you learnt it well
+
